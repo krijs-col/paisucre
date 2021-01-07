@@ -1,0 +1,6734 @@
+[
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91001,
+    "Mun": "LETICIA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91263,
+    "Mun": "EL ENCANTO"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91405,
+    "Mun": "LA CHORRERA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91407,
+    "Mun": "LA PEDRERA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91430,
+    "Mun": "LA VICTORIA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91460,
+    "Mun": "MIRITI - PARANÁ"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91530,
+    "Mun": "PUERTO ALEGRÍA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91536,
+    "Mun": "PUERTO ARICA"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91540,
+    "Mun": "PUERTO NARIÑO"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91669,
+    "Mun": "PUERTO SANTANDER"
+  },
+  {
+    "codDept": 91,
+    "Dept": "Amazonas",
+    "codMun": 91798,
+    "Mun": "TARAPACÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5001,
+    "Mun": "MEDELLÍN"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5002,
+    "Mun": "ABEJORRAL"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5004,
+    "Mun": "ABRIAQUÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5021,
+    "Mun": "ALEJANDRÍA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5030,
+    "Mun": "AMAGÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5031,
+    "Mun": "AMALFI"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5034,
+    "Mun": "ANDES"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5036,
+    "Mun": "ANGELÓPOLIS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5038,
+    "Mun": "ANGOSTURA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5040,
+    "Mun": "ANORÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5042,
+    "Mun": "SANTAFÉ DE ANTIOQUIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5044,
+    "Mun": "ANZA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5045,
+    "Mun": "APARTADÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5051,
+    "Mun": "ARBOLETES"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5055,
+    "Mun": "ARGELIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5059,
+    "Mun": "ARMENIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5079,
+    "Mun": "BARBOSA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5086,
+    "Mun": "BELMIRA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5088,
+    "Mun": "BELLO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5091,
+    "Mun": "BETANIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5093,
+    "Mun": "BETULIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5101,
+    "Mun": "CIUDAD BOLÍVAR"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5107,
+    "Mun": "BRICEÑO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5113,
+    "Mun": "BURITICÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5120,
+    "Mun": "CÁCERES"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5125,
+    "Mun": "CAICEDO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5129,
+    "Mun": "CALDAS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5134,
+    "Mun": "CAMPAMENTO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5138,
+    "Mun": "CAÑASGORDAS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5142,
+    "Mun": "CARACOLÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5145,
+    "Mun": "CARAMANTA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5147,
+    "Mun": "CAREPA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5148,
+    "Mun": "EL CARMEN DE VIBORAL"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5150,
+    "Mun": "CAROLINA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5154,
+    "Mun": "CAUCASIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5172,
+    "Mun": "CHIGORODÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5190,
+    "Mun": "CISNEROS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5197,
+    "Mun": "COCORNÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5206,
+    "Mun": "CONCEPCIÓN"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5209,
+    "Mun": "CONCORDIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5212,
+    "Mun": "COPACABANA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5234,
+    "Mun": "DABEIBA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5237,
+    "Mun": "DONMATÍAS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5240,
+    "Mun": "EBÉJICO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5250,
+    "Mun": "EL BAGRE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5264,
+    "Mun": "ENTRERRIOS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5266,
+    "Mun": "ENVIGADO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5282,
+    "Mun": "FREDONIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5284,
+    "Mun": "FRONTINO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5306,
+    "Mun": "GIRALDO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5308,
+    "Mun": "GIRARDOTA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5310,
+    "Mun": "GÓMEZ PLATA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5313,
+    "Mun": "GRANADA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5315,
+    "Mun": "GUADALUPE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5318,
+    "Mun": "GUARNE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5321,
+    "Mun": "GUATAPE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5347,
+    "Mun": "HELICONIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5353,
+    "Mun": "HISPANIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5360,
+    "Mun": "ITAGUI"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5361,
+    "Mun": "ITUANGO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5364,
+    "Mun": "JARDÍN"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5368,
+    "Mun": "JERICÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5376,
+    "Mun": "LA CEJA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5380,
+    "Mun": "LA ESTRELLA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5390,
+    "Mun": "LA PINTADA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5400,
+    "Mun": "LA UNIÓN"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5411,
+    "Mun": "LIBORINA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5425,
+    "Mun": "MACEO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5440,
+    "Mun": "MARINILLA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5467,
+    "Mun": "MONTEBELLO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5475,
+    "Mun": "MURINDÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5480,
+    "Mun": "MUTATÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5483,
+    "Mun": "NARIÑO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5490,
+    "Mun": "NECOCLÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5495,
+    "Mun": "NECHÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5501,
+    "Mun": "OLAYA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5541,
+    "Mun": "PEÑOL"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5543,
+    "Mun": "PEQUE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5576,
+    "Mun": "PUEBLORRICO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5579,
+    "Mun": "PUERTO BERRÍO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5585,
+    "Mun": "PUERTO NARE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5591,
+    "Mun": "PUERTO TRIUNFO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5604,
+    "Mun": "REMEDIOS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5607,
+    "Mun": "RETIRO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5615,
+    "Mun": "RIONEGRO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5628,
+    "Mun": "SABANALARGA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5631,
+    "Mun": "SABANETA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5642,
+    "Mun": "SALGAR"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5647,
+    "Mun": "SAN ANDRES DE CUERQUÍA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5649,
+    "Mun": "SAN CARLOS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5652,
+    "Mun": "SAN FRANCISCO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5656,
+    "Mun": "SAN JERÓNIMO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5658,
+    "Mun": "SAN JOSÉ DE LA MONTAÑA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5659,
+    "Mun": "SAN JUAN DE URABÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5660,
+    "Mun": "SAN LUIS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5664,
+    "Mun": "SAN PEDRO DE LOS MILAGROS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5665,
+    "Mun": "SAN PEDRO DE URABA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5667,
+    "Mun": "SAN RAFAEL"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5670,
+    "Mun": "SAN ROQUE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5674,
+    "Mun": "SAN VICENTE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5679,
+    "Mun": "SANTA BÁRBARA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5686,
+    "Mun": "SANTA ROSA DE OSOS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5690,
+    "Mun": "SANTO DOMINGO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5697,
+    "Mun": "EL SANTUARIO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5736,
+    "Mun": "SEGOVIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5756,
+    "Mun": "SONSON"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5761,
+    "Mun": "SOPETRÁN"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5789,
+    "Mun": "TÁMESIS"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5790,
+    "Mun": "TARAZÁ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5792,
+    "Mun": "TARSO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5809,
+    "Mun": "TITIRIBÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5819,
+    "Mun": "TOLEDO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5837,
+    "Mun": "TURBO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5842,
+    "Mun": "URAMITA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5847,
+    "Mun": "URRAO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5854,
+    "Mun": "VALDIVIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5856,
+    "Mun": "VALPARAÍSO"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5858,
+    "Mun": "VEGACHÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5861,
+    "Mun": "VENECIA"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5873,
+    "Mun": "VIGÍA DEL FUERTE"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5885,
+    "Mun": "YALÍ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5887,
+    "Mun": "YARUMAL"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5890,
+    "Mun": "YOLOMBÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5893,
+    "Mun": "YONDÓ"
+  },
+  {
+    "codDept": 5,
+    "Dept": "Antioquia",
+    "codMun": 5895,
+    "Mun": "ZARAGOZA"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81001,
+    "Mun": "ARAUCA"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81065,
+    "Mun": "ARAUQUITA"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81220,
+    "Mun": "CRAVO NORTE"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81300,
+    "Mun": "FORTUL"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81591,
+    "Mun": "PUERTO RONDÓN"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81736,
+    "Mun": "SARAVENA"
+  },
+  {
+    "codDept": 81,
+    "Dept": "Arauca",
+    "codMun": 81794,
+    "Mun": "TAME"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8001,
+    "Mun": "BARRANQUILLA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8078,
+    "Mun": "BARANOA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8137,
+    "Mun": "CAMPO DE LA CRUZ"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8141,
+    "Mun": "CANDELARIA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8296,
+    "Mun": "GALAPA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8372,
+    "Mun": "JUAN DE ACOSTA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8421,
+    "Mun": "LURUACO"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8433,
+    "Mun": "MALAMBO"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8436,
+    "Mun": "MANATÍ"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8520,
+    "Mun": "PALMAR DE VARELA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8549,
+    "Mun": "PIOJÓ"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8558,
+    "Mun": "POLONUEVO"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8560,
+    "Mun": "PONEDERA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8573,
+    "Mun": "PUERTO COLOMBIA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8606,
+    "Mun": "REPELÓN"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8634,
+    "Mun": "SABANAGRANDE"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8638,
+    "Mun": "SABANALARGA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8675,
+    "Mun": "SANTA LUCÍA"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8685,
+    "Mun": "SANTO TOMÁS"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8758,
+    "Mun": "SOLEDAD"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8770,
+    "Mun": "SUAN"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8832,
+    "Mun": "TUBARÁ"
+  },
+  {
+    "codDept": 8,
+    "Dept": "Atlantico",
+    "codMun": 8849,
+    "Mun": "USIACURÍ"
+  },
+  {
+    "codDept": 11,
+    "Dept": "Bogot",
+    "codMun": 11001,
+    "Mun": "BOGOTÁ, D.C."
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13001,
+    "Mun": "CARTAGENA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13006,
+    "Mun": "ACHÍ"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13030,
+    "Mun": "ALTOS DEL ROSARIO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13042,
+    "Mun": "ARENAL"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13052,
+    "Mun": "ARJONA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13062,
+    "Mun": "ARROYOHONDO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13074,
+    "Mun": "BARRANCO DE LOBA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13140,
+    "Mun": "CALAMAR"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13160,
+    "Mun": "CANTAGALLO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13188,
+    "Mun": "CICUCO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13212,
+    "Mun": "CÓRDOBA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13222,
+    "Mun": "CLEMENCIA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13244,
+    "Mun": "EL CARMEN DE BOLÍVAR"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13248,
+    "Mun": "EL GUAMO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13268,
+    "Mun": "EL PEÑÓN"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13300,
+    "Mun": "HATILLO DE LOBA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13430,
+    "Mun": "MAGANGUÉ"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13433,
+    "Mun": "MAHATES"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13440,
+    "Mun": "MARGARITA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13442,
+    "Mun": "MARÍA LA BAJA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13458,
+    "Mun": "MONTECRISTO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13468,
+    "Mun": "MOMPÓS"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13473,
+    "Mun": "MORALES"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13490,
+    "Mun": "NOROSÍ"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13549,
+    "Mun": "PINILLOS"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13580,
+    "Mun": "REGIDOR"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13600,
+    "Mun": "RÍO VIEJO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13620,
+    "Mun": "SAN CRISTÓBAL"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13647,
+    "Mun": "SAN ESTANISLAO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13650,
+    "Mun": "SAN FERNANDO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13654,
+    "Mun": "SAN JACINTO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13655,
+    "Mun": "SAN JACINTO DEL CAUCA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13657,
+    "Mun": "SAN JUAN NEPOMUCENO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13667,
+    "Mun": "SAN MARTÍN DE LOBA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13670,
+    "Mun": "SAN PABLO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13673,
+    "Mun": "SANTA CATALINA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13683,
+    "Mun": "SANTA ROSA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13688,
+    "Mun": "SANTA ROSA DEL SUR"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13744,
+    "Mun": "SIMITÍ"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13760,
+    "Mun": "SOPLAVIENTO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13780,
+    "Mun": "TALAIGUA NUEVO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13810,
+    "Mun": "TIQUISIO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13836,
+    "Mun": "TURBACO"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13838,
+    "Mun": "TURBANÁ"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13873,
+    "Mun": "VILLANUEVA"
+  },
+  {
+    "codDept": 13,
+    "Dept": "Bolivar",
+    "codMun": 13894,
+    "Mun": "ZAMBRANO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15001,
+    "Mun": "TUNJA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15022,
+    "Mun": "ALMEIDA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15047,
+    "Mun": "AQUITANIA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15051,
+    "Mun": "ARCABUCO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15087,
+    "Mun": "BELÉN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15090,
+    "Mun": "BERBEO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15092,
+    "Mun": "BETÉITIVA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15097,
+    "Mun": "BOAVITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15104,
+    "Mun": "BOYACÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15106,
+    "Mun": "BRICEÑO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15109,
+    "Mun": "BUENAVISTA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15114,
+    "Mun": "BUSBANZÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15131,
+    "Mun": "CALDAS"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15135,
+    "Mun": "CAMPOHERMOSO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15162,
+    "Mun": "CERINZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15172,
+    "Mun": "CHINAVITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15176,
+    "Mun": "CHIQUINQUIRÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15180,
+    "Mun": "CHISCAS"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15183,
+    "Mun": "CHITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15185,
+    "Mun": "CHITARAQUE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15187,
+    "Mun": "CHIVATÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15189,
+    "Mun": "CIÉNEGA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15204,
+    "Mun": "CÓMBITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15212,
+    "Mun": "COPER"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15215,
+    "Mun": "CORRALES"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15218,
+    "Mun": "COVARACHÍA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15223,
+    "Mun": "CUBARÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15224,
+    "Mun": "CUCAITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15226,
+    "Mun": "CUÍTIVA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15232,
+    "Mun": "CHÍQUIZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15236,
+    "Mun": "CHIVOR"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15238,
+    "Mun": "DUITAMA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15244,
+    "Mun": "EL COCUY"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15248,
+    "Mun": "EL ESPINO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15272,
+    "Mun": "FIRAVITOBA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15276,
+    "Mun": "FLORESTA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15293,
+    "Mun": "GACHANTIVÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15296,
+    "Mun": "GAMEZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15299,
+    "Mun": "GARAGOA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15317,
+    "Mun": "GUACAMAYAS"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15322,
+    "Mun": "GUATEQUE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15325,
+    "Mun": "GUAYATÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15332,
+    "Mun": "GÜICÁN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15362,
+    "Mun": "IZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15367,
+    "Mun": "JENESANO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15368,
+    "Mun": "JERICÓ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15377,
+    "Mun": "LABRANZAGRANDE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15380,
+    "Mun": "LA CAPILLA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15401,
+    "Mun": "LA VICTORIA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15403,
+    "Mun": "LA UVITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15407,
+    "Mun": "VILLA DE LEYVA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15425,
+    "Mun": "MACANAL"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15442,
+    "Mun": "MARIPÍ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15455,
+    "Mun": "MIRAFLORES"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15464,
+    "Mun": "MONGUA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15466,
+    "Mun": "MONGUÍ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15469,
+    "Mun": "MONIQUIRÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15476,
+    "Mun": "MOTAVITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15480,
+    "Mun": "MUZO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15491,
+    "Mun": "NOBSA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15494,
+    "Mun": "NUEVO COLÓN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15500,
+    "Mun": "OICATÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15507,
+    "Mun": "OTANCHE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15511,
+    "Mun": "PACHAVITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15514,
+    "Mun": "PÁEZ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15516,
+    "Mun": "PAIPA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15518,
+    "Mun": "PAJARITO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15522,
+    "Mun": "PANQUEBA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15531,
+    "Mun": "PAUNA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15533,
+    "Mun": "PAYA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15537,
+    "Mun": "PAZ DE RÍO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15542,
+    "Mun": "PESCA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15550,
+    "Mun": "PISBA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15572,
+    "Mun": "PUERTO BOYACÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15580,
+    "Mun": "QUÍPAMA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15599,
+    "Mun": "RAMIRIQUÍ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15600,
+    "Mun": "RÁQUIRA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15621,
+    "Mun": "RONDÓN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15632,
+    "Mun": "SABOYÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15638,
+    "Mun": "SÁCHICA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15646,
+    "Mun": "SAMACÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15660,
+    "Mun": "SAN EDUARDO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15664,
+    "Mun": "SAN JOSÉ DE PARE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15667,
+    "Mun": "SAN LUIS DE GACENO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15673,
+    "Mun": "SAN MATEO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15676,
+    "Mun": "SAN MIGUEL DE SEMA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15681,
+    "Mun": "SAN PABLO DE BORBUR"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15686,
+    "Mun": "SANTANA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15690,
+    "Mun": "SANTA MARÍA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15693,
+    "Mun": "SANTA ROSA DE VITERBO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15696,
+    "Mun": "SANTA SOFÍA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15720,
+    "Mun": "SATIVANORTE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15723,
+    "Mun": "SATIVASUR"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15740,
+    "Mun": "SIACHOQUE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15753,
+    "Mun": "SOATÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15755,
+    "Mun": "SOCOTÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15757,
+    "Mun": "SOCHA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15759,
+    "Mun": "SOGAMOSO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15761,
+    "Mun": "SOMONDOCO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15762,
+    "Mun": "SORA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15763,
+    "Mun": "SOTAQUIRÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15764,
+    "Mun": "SORACÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15774,
+    "Mun": "SUSACÓN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15776,
+    "Mun": "SUTAMARCHÁN"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15778,
+    "Mun": "SUTATENZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15790,
+    "Mun": "TASCO"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15798,
+    "Mun": "TENZA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15804,
+    "Mun": "TIBANÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15806,
+    "Mun": "TIBASOSA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15808,
+    "Mun": "TINJACÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15810,
+    "Mun": "TIPACOQUE"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15814,
+    "Mun": "TOCA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15816,
+    "Mun": "TOGÜÍ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15820,
+    "Mun": "TÓPAGA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15822,
+    "Mun": "TOTA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15832,
+    "Mun": "TUNUNGUÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15835,
+    "Mun": "TURMEQUÉ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15837,
+    "Mun": "TUTA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15839,
+    "Mun": "TUTAZÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15842,
+    "Mun": "UMBITA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15861,
+    "Mun": "VENTAQUEMADA"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15879,
+    "Mun": "VIRACACHÁ"
+  },
+  {
+    "codDept": 15,
+    "Dept": "Boyaca",
+    "codMun": 15897,
+    "Mun": "ZETAQUIRA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17001,
+    "Mun": "MANIZALES"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17013,
+    "Mun": "AGUADAS"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17042,
+    "Mun": "ANSERMA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17050,
+    "Mun": "ARANZAZU"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17088,
+    "Mun": "BELALCÁZAR"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17174,
+    "Mun": "CHINCHINÁ"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17272,
+    "Mun": "FILADELFIA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17380,
+    "Mun": "LA DORADA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17388,
+    "Mun": "LA MERCED"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17433,
+    "Mun": "MANZANARES"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17442,
+    "Mun": "MARMATO"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17444,
+    "Mun": "MARQUETALIA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17446,
+    "Mun": "MARULANDA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17486,
+    "Mun": "NEIRA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17495,
+    "Mun": "NORCASIA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17513,
+    "Mun": "PÁCORA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17524,
+    "Mun": "PALESTINA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17541,
+    "Mun": "PENSILVANIA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17614,
+    "Mun": "RIOSUCIO"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17616,
+    "Mun": "RISARALDA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17653,
+    "Mun": "SALAMINA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17662,
+    "Mun": "SAMANÁ"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17665,
+    "Mun": "SAN JOSÉ"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17777,
+    "Mun": "SUPÍA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17867,
+    "Mun": "VICTORIA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17873,
+    "Mun": "VILLAMARÍA"
+  },
+  {
+    "codDept": 17,
+    "Dept": "Caldas",
+    "codMun": 17877,
+    "Mun": "VITERBO"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18001,
+    "Mun": "FLORENCIA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18029,
+    "Mun": "ALBANIA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18094,
+    "Mun": "BELÉN DE LOS ANDAQUÍES"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18150,
+    "Mun": "CARTAGENA DEL CHAIRÁ"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18205,
+    "Mun": "CURILLO"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18247,
+    "Mun": "EL DONCELLO"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18256,
+    "Mun": "EL PAUJIL"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18410,
+    "Mun": "LA MONTAÑITA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18460,
+    "Mun": "MILÁN"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18479,
+    "Mun": "MORELIA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18592,
+    "Mun": "PUERTO RICO"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18610,
+    "Mun": "SAN JOSÉ DEL FRAGUA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18753,
+    "Mun": "SAN VICENTE DEL CAGUÁN"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18756,
+    "Mun": "SOLANO"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18785,
+    "Mun": "SOLITA"
+  },
+  {
+    "codDept": 18,
+    "Dept": "Caqueta",
+    "codMun": 18860,
+    "Mun": "VALPARAÍSO"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85001,
+    "Mun": "YOPAL"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85010,
+    "Mun": "AGUAZUL"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85015,
+    "Mun": "CHAMEZA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85125,
+    "Mun": "HATO COROZAL"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85136,
+    "Mun": "LA SALINA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85139,
+    "Mun": "MANÍ"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85162,
+    "Mun": "MONTERREY"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85225,
+    "Mun": "NUNCHÍA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85230,
+    "Mun": "OROCUÉ"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85250,
+    "Mun": "PAZ DE ARIPORO"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85263,
+    "Mun": "PORE"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85279,
+    "Mun": "RECETOR"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85300,
+    "Mun": "SABANALARGA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85315,
+    "Mun": "SÁCAMA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85325,
+    "Mun": "SAN LUIS DE PALENQUE"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85400,
+    "Mun": "TÁMARA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85410,
+    "Mun": "TAURAMENA"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85430,
+    "Mun": "TRINIDAD"
+  },
+  {
+    "codDept": 85,
+    "Dept": "Casanare",
+    "codMun": 85440,
+    "Mun": "VILLANUEVA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19001,
+    "Mun": "POPAYÁN"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19022,
+    "Mun": "ALMAGUER"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19050,
+    "Mun": "ARGELIA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19075,
+    "Mun": "BALBOA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19100,
+    "Mun": "BOLÍVAR"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19110,
+    "Mun": "BUENOS AIRES"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19130,
+    "Mun": "CAJIBÍO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19137,
+    "Mun": "CALDONO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19142,
+    "Mun": "CALOTO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19212,
+    "Mun": "CORINTO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19256,
+    "Mun": "EL TAMBO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19290,
+    "Mun": "FLORENCIA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19300,
+    "Mun": "GUACHENÉ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19318,
+    "Mun": "GUAPI"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19355,
+    "Mun": "INZÁ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19364,
+    "Mun": "JAMBALÓ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19392,
+    "Mun": "LA SIERRA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19397,
+    "Mun": "LA VEGA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19418,
+    "Mun": "LÓPEZ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19450,
+    "Mun": "MERCADERES"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19455,
+    "Mun": "MIRANDA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19473,
+    "Mun": "MORALES"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19513,
+    "Mun": "PADILLA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19517,
+    "Mun": "PAEZ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19532,
+    "Mun": "PATÍA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19533,
+    "Mun": "PIAMONTE"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19548,
+    "Mun": "PIENDAMÓ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19573,
+    "Mun": "PUERTO TEJADA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19585,
+    "Mun": "PURACÉ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19622,
+    "Mun": "ROSAS"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19693,
+    "Mun": "SAN SEBASTIÁN"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19698,
+    "Mun": "SANTANDER DE QUILICHAO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19701,
+    "Mun": "SANTA ROSA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19743,
+    "Mun": "SILVIA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19760,
+    "Mun": "SOTARA"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19780,
+    "Mun": "SUÁREZ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19785,
+    "Mun": "SUCRE"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19807,
+    "Mun": "TIMBÍO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19809,
+    "Mun": "TIMBIQUÍ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19821,
+    "Mun": "TORIBIO"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19824,
+    "Mun": "TOTORÓ"
+  },
+  {
+    "codDept": 19,
+    "Dept": "Cauca",
+    "codMun": 19845,
+    "Mun": "VILLA RICA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20001,
+    "Mun": "VALLEDUPAR"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20011,
+    "Mun": "AGUACHICA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20013,
+    "Mun": "AGUSTÍN CODAZZI"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20032,
+    "Mun": "ASTREA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20045,
+    "Mun": "BECERRIL"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20060,
+    "Mun": "BOSCONIA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20175,
+    "Mun": "CHIMICHAGUA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20178,
+    "Mun": "CHIRIGUANÁ"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20228,
+    "Mun": "CURUMANÍ"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20238,
+    "Mun": "EL COPEY"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20250,
+    "Mun": "EL PASO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20295,
+    "Mun": "GAMARRA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20310,
+    "Mun": "GONZÁLEZ"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20383,
+    "Mun": "LA GLORIA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20400,
+    "Mun": "LA JAGUA DE IBIRICO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20443,
+    "Mun": "MANAURE"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20517,
+    "Mun": "PAILITAS"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20550,
+    "Mun": "PELAYA"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20570,
+    "Mun": "PUEBLO BELLO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20614,
+    "Mun": "RÍO DE ORO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20621,
+    "Mun": "LA PAZ"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20710,
+    "Mun": "SAN ALBERTO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20750,
+    "Mun": "SAN DIEGO"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20770,
+    "Mun": "SAN MARTÍN"
+  },
+  {
+    "codDept": 20,
+    "Dept": "Cesar",
+    "codMun": 20787,
+    "Mun": "TAMALAMEQUE"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27001,
+    "Mun": "QUIBDÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27006,
+    "Mun": "ACANDÍ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27025,
+    "Mun": "ALTO BAUDÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27050,
+    "Mun": "ATRATO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27073,
+    "Mun": "BAGADÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27075,
+    "Mun": "BAHÍA SOLANO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27077,
+    "Mun": "BAJO BAUDÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27099,
+    "Mun": "BOJAYA"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27135,
+    "Mun": "EL CANTÓN DEL SAN PABLO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27150,
+    "Mun": "CARMEN DEL DARIÉN"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27160,
+    "Mun": "CÉRTEGUI"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27205,
+    "Mun": "CONDOTO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27245,
+    "Mun": "EL CARMEN DE ATRATO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27250,
+    "Mun": "EL LITORAL DEL SAN JUAN"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27361,
+    "Mun": "ISTMINA"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27372,
+    "Mun": "JURADÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27413,
+    "Mun": "LLORÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27425,
+    "Mun": "MEDIO ATRATO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27430,
+    "Mun": "MEDIO BAUDÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27450,
+    "Mun": "MEDIO SAN JUAN"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27491,
+    "Mun": "NÓVITA"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27495,
+    "Mun": "NUQUÍ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27580,
+    "Mun": "RÍO IRÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27600,
+    "Mun": "RÍO QUITO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27615,
+    "Mun": "RIOSUCIO"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27660,
+    "Mun": "SAN JOSÉ DEL PALMAR"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27745,
+    "Mun": "SIPÍ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27787,
+    "Mun": "TADÓ"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27800,
+    "Mun": "UNGUÍA"
+  },
+  {
+    "codDept": 27,
+    "Dept": "Choco",
+    "codMun": 27810,
+    "Mun": "UNIÓN PANAMERICANA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23001,
+    "Mun": "MONTERÍA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23068,
+    "Mun": "AYAPEL"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23079,
+    "Mun": "BUENAVISTA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23090,
+    "Mun": "CANALETE"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23162,
+    "Mun": "CERETÉ"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23168,
+    "Mun": "CHIMÁ"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23182,
+    "Mun": "CHINÚ"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23189,
+    "Mun": "CIÉNAGA DE ORO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23300,
+    "Mun": "COTORRA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23350,
+    "Mun": "LA APARTADA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23417,
+    "Mun": "LORICA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23419,
+    "Mun": "LOS CÓRDOBAS"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23464,
+    "Mun": "MOMIL"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23466,
+    "Mun": "MONTELÍBANO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23500,
+    "Mun": "MOÑITOS"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23555,
+    "Mun": "PLANETA RICA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23570,
+    "Mun": "PUEBLO NUEVO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23574,
+    "Mun": "PUERTO ESCONDIDO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23580,
+    "Mun": "PUERTO LIBERTADOR"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23586,
+    "Mun": "PURÍSIMA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23660,
+    "Mun": "SAHAGÚN"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23670,
+    "Mun": "SAN ANDRÉS SOTAVENTO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23672,
+    "Mun": "SAN ANTERO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23675,
+    "Mun": "SAN BERNARDO DEL VIENTO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23678,
+    "Mun": "SAN CARLOS"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23682,
+    "Mun": "SAN JOSÉ DE URÉ"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23686,
+    "Mun": "SAN PELAYO"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23807,
+    "Mun": "TIERRALTA"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23815,
+    "Mun": "TUCHÍN"
+  },
+  {
+    "codDept": 23,
+    "Dept": "Cordoba",
+    "codMun": 23855,
+    "Mun": "VALENCIA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25001,
+    "Mun": "AGUA DE DIOS"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25019,
+    "Mun": "ALBÁN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25035,
+    "Mun": "ANAPOIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25040,
+    "Mun": "ANOLAIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25053,
+    "Mun": "ARBELÁEZ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25086,
+    "Mun": "BELTRÁN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25095,
+    "Mun": "BITUIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25099,
+    "Mun": "BOJACÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25120,
+    "Mun": "CABRERA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25123,
+    "Mun": "CACHIPAY"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25126,
+    "Mun": "CAJICÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25148,
+    "Mun": "CAPARRAPÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25151,
+    "Mun": "CAQUEZA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25154,
+    "Mun": "CARMEN DE CARUPA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25168,
+    "Mun": "CHAGUANÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25175,
+    "Mun": "CHÍA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25178,
+    "Mun": "CHIPAQUE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25181,
+    "Mun": "CHOACHÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25183,
+    "Mun": "CHOCONTÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25200,
+    "Mun": "COGUA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25214,
+    "Mun": "COTA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25224,
+    "Mun": "CUCUNUBÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25245,
+    "Mun": "EL COLEGIO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25258,
+    "Mun": "EL PEÑÓN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25260,
+    "Mun": "EL ROSAL"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25269,
+    "Mun": "FACATATIVÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25279,
+    "Mun": "FOMEQUE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25281,
+    "Mun": "FOSCA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25286,
+    "Mun": "FUNZA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25288,
+    "Mun": "FÚQUENE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25290,
+    "Mun": "FUSAGASUGÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25293,
+    "Mun": "GACHALA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25295,
+    "Mun": "GACHANCIPÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25297,
+    "Mun": "GACHETÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25299,
+    "Mun": "GAMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25307,
+    "Mun": "GIRARDOT"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25312,
+    "Mun": "GRANADA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25317,
+    "Mun": "GUACHETÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25320,
+    "Mun": "GUADUAS"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25322,
+    "Mun": "GUASCA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25324,
+    "Mun": "GUATAQUÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25326,
+    "Mun": "GUATAVITA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25328,
+    "Mun": "GUAYABAL DE SIQUIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25335,
+    "Mun": "GUAYABETAL"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25339,
+    "Mun": "GUTIÉRREZ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25368,
+    "Mun": "JERUSALÉN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25372,
+    "Mun": "JUNÍN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25377,
+    "Mun": "LA CALERA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25386,
+    "Mun": "LA MESA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25394,
+    "Mun": "LA PALMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25398,
+    "Mun": "LA PEÑA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25402,
+    "Mun": "LA VEGA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25407,
+    "Mun": "LENGUAZAQUE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25426,
+    "Mun": "MACHETA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25430,
+    "Mun": "MADRID"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25436,
+    "Mun": "MANTA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25438,
+    "Mun": "MEDINA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25473,
+    "Mun": "MOSQUERA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25483,
+    "Mun": "NARIÑO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25486,
+    "Mun": "NEMOCÓN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25488,
+    "Mun": "NILO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25489,
+    "Mun": "NIMAIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25491,
+    "Mun": "NOCAIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25506,
+    "Mun": "VENECIA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25513,
+    "Mun": "PACHO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25518,
+    "Mun": "PAIME"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25524,
+    "Mun": "PANDI"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25530,
+    "Mun": "PARATEBUENO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25535,
+    "Mun": "PASCA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25572,
+    "Mun": "PUERTO SALGAR"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25580,
+    "Mun": "PULÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25592,
+    "Mun": "QUEBRADANEGRA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25594,
+    "Mun": "QUETAME"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25596,
+    "Mun": "QUIPILE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25599,
+    "Mun": "APULO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25612,
+    "Mun": "RICAURTE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25645,
+    "Mun": "SAN ANTONIO DEL TEQUENDAMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25649,
+    "Mun": "SAN BERNARDO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25653,
+    "Mun": "SAN CAYETANO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25658,
+    "Mun": "SAN FRANCISCO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25662,
+    "Mun": "SAN JUAN DE RÍO SECO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25718,
+    "Mun": "SASAIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25736,
+    "Mun": "SESQUILÉ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25740,
+    "Mun": "SIBATÉ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25743,
+    "Mun": "SILVANIA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25745,
+    "Mun": "SIMIJACA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25754,
+    "Mun": "SOACHA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25758,
+    "Mun": "SOPÓ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25769,
+    "Mun": "SUBACHOQUE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25772,
+    "Mun": "SUESCA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25777,
+    "Mun": "SUPATÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25779,
+    "Mun": "SUSA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25781,
+    "Mun": "SUTATAUSA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25785,
+    "Mun": "TABIO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25793,
+    "Mun": "TAUSA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25797,
+    "Mun": "TENA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25799,
+    "Mun": "TENJO"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25805,
+    "Mun": "TIBACUY"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25807,
+    "Mun": "TIBIRITA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25815,
+    "Mun": "TOCAIMA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25817,
+    "Mun": "TOCANCIPÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25823,
+    "Mun": "TOPAIPÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25839,
+    "Mun": "UBALÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25841,
+    "Mun": "UBAQUE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25843,
+    "Mun": "VILLA DE SAN DIEGO DE UBATE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25845,
+    "Mun": "UNE"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25851,
+    "Mun": "ÚTICA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25862,
+    "Mun": "VERGARA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25867,
+    "Mun": "VIANÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25871,
+    "Mun": "VILLAGÓMEZ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25873,
+    "Mun": "VILLAPINZÓN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25875,
+    "Mun": "VILLETA"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25878,
+    "Mun": "VIOTÁ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25885,
+    "Mun": "YACOPÍ"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25898,
+    "Mun": "ZIPACÓN"
+  },
+  {
+    "codDept": 25,
+    "Dept": "Cundinamarca",
+    "codMun": 25899,
+    "Mun": "ZIPAQUIRÁ"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94001,
+    "Mun": "INÍRIDA"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94343,
+    "Mun": "BARRANCO MINAS"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94663,
+    "Mun": "MAPIRIPANA"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94883,
+    "Mun": "SAN FELIPE"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94884,
+    "Mun": "PUERTO COLOMBIA"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94885,
+    "Mun": "LA GUADALUPE"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94886,
+    "Mun": "CACAHUAL"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94887,
+    "Mun": "PANA PANA"
+  },
+  {
+    "codDept": 94,
+    "Dept": "Guainia",
+    "codMun": 94888,
+    "Mun": "MORICHAL"
+  },
+  {
+    "codDept": 95,
+    "Dept": "Guaviare",
+    "codMun": 95001,
+    "Mun": "SAN JOSÉ DEL GUAVIARE"
+  },
+  {
+    "codDept": 95,
+    "Dept": "Guaviare",
+    "codMun": 95015,
+    "Mun": "CALAMAR"
+  },
+  {
+    "codDept": 95,
+    "Dept": "Guaviare",
+    "codMun": 95025,
+    "Mun": "EL RETORNO"
+  },
+  {
+    "codDept": 95,
+    "Dept": "Guaviare",
+    "codMun": 95200,
+    "Mun": "MIRAFLORES"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41001,
+    "Mun": "NEIVA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41006,
+    "Mun": "ACEVEDO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41013,
+    "Mun": "AGRADO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41016,
+    "Mun": "AIPE"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41020,
+    "Mun": "ALGECIRAS"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41026,
+    "Mun": "ALTAMIRA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41078,
+    "Mun": "BARAYA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41132,
+    "Mun": "CAMPOALEGRE"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41206,
+    "Mun": "COLOMBIA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41244,
+    "Mun": "ELÍAS"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41298,
+    "Mun": "GARZÓN"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41306,
+    "Mun": "GIGANTE"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41319,
+    "Mun": "GUADALUPE"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41349,
+    "Mun": "HOBO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41357,
+    "Mun": "IQUIRA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41359,
+    "Mun": "ISNOS"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41378,
+    "Mun": "LA ARGENTINA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41396,
+    "Mun": "LA PLATA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41483,
+    "Mun": "NÁTAGA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41503,
+    "Mun": "OPORAPA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41518,
+    "Mun": "PAICOL"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41524,
+    "Mun": "PALERMO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41530,
+    "Mun": "PALESTINA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41548,
+    "Mun": "PITAL"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41551,
+    "Mun": "PITALITO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41615,
+    "Mun": "RIVERA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41660,
+    "Mun": "SALADOBLANCO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41668,
+    "Mun": "SAN AGUSTÍN"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41676,
+    "Mun": "SANTA MARÍA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41770,
+    "Mun": "SUAZA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41791,
+    "Mun": "TARQUI"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41797,
+    "Mun": "TESALIA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41799,
+    "Mun": "TELLO"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41801,
+    "Mun": "TERUEL"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41807,
+    "Mun": "TIMANÁ"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41872,
+    "Mun": "VILLAVIEJA"
+  },
+  {
+    "codDept": 41,
+    "Dept": "Huila",
+    "codMun": 41885,
+    "Mun": "YAGUARÁ"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44001,
+    "Mun": "RIOHACHA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44035,
+    "Mun": "ALBANIA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44078,
+    "Mun": "BARRANCAS"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44090,
+    "Mun": "DIBULLA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44098,
+    "Mun": "DISTRACCIÓN"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44110,
+    "Mun": "EL MOLINO"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44279,
+    "Mun": "FONSECA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44378,
+    "Mun": "HATONUEVO"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44420,
+    "Mun": "LA JAGUA DEL PILAR"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44430,
+    "Mun": "MAICAO"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44560,
+    "Mun": "MANAURE"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44650,
+    "Mun": "SAN JUAN DEL CESAR"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44847,
+    "Mun": "URIBIA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44855,
+    "Mun": "URUMITA"
+  },
+  {
+    "codDept": 44,
+    "Dept": "La Guajira",
+    "codMun": 44874,
+    "Mun": "VILLANUEVA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47001,
+    "Mun": "SANTA MARTA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47030,
+    "Mun": "ALGARROBO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47053,
+    "Mun": "ARACATACA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47058,
+    "Mun": "ARIGUANÍ"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47161,
+    "Mun": "CERRO SAN ANTONIO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47170,
+    "Mun": "CHIVOLO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47189,
+    "Mun": "CIÉNAGA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47205,
+    "Mun": "CONCORDIA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47245,
+    "Mun": "EL BANCO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47258,
+    "Mun": "EL PIÑON"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47268,
+    "Mun": "EL RETÉN"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47288,
+    "Mun": "FUNDACIÓN"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47318,
+    "Mun": "GUAMAL"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47460,
+    "Mun": "NUEVA GRANADA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47541,
+    "Mun": "PEDRAZA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47545,
+    "Mun": "PIJIÑO DEL CARMEN"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47551,
+    "Mun": "PIVIJAY"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47555,
+    "Mun": "PLATO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47570,
+    "Mun": "PUEBLOVIEJO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47605,
+    "Mun": "REMOLINO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47660,
+    "Mun": "SABANAS DE SAN ANGEL"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47675,
+    "Mun": "SALAMINA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47692,
+    "Mun": "SAN SEBASTIÁN DE BUENAVISTA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47703,
+    "Mun": "SAN ZENÓN"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47707,
+    "Mun": "SANTA ANA"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47720,
+    "Mun": "SANTA BÁRBARA DE PINTO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47745,
+    "Mun": "SITIONUEVO"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47798,
+    "Mun": "TENERIFE"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47960,
+    "Mun": "ZAPAYÁN"
+  },
+  {
+    "codDept": 47,
+    "Dept": "Magdalena",
+    "codMun": 47980,
+    "Mun": "ZONA BANANERA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50001,
+    "Mun": "VILLAVICENCIO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50006,
+    "Mun": "ACACÍAS"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50110,
+    "Mun": "BARRANCA DE UPÍA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50124,
+    "Mun": "CABUYARO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50150,
+    "Mun": "CASTILLA LA NUEVA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50223,
+    "Mun": "CUBARRAL"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50226,
+    "Mun": "CUMARAL"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50245,
+    "Mun": "EL CALVARIO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50251,
+    "Mun": "EL CASTILLO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50270,
+    "Mun": "EL DORADO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50287,
+    "Mun": "FUENTE DE ORO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50313,
+    "Mun": "GRANADA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50318,
+    "Mun": "GUAMAL"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50325,
+    "Mun": "MAPIRIPÁN"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50330,
+    "Mun": "MESETAS"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50350,
+    "Mun": "LA MACARENA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50370,
+    "Mun": "URIBE"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50400,
+    "Mun": "LEJANÍAS"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50450,
+    "Mun": "PUERTO CONCORDIA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50568,
+    "Mun": "PUERTO GAITÁN"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50573,
+    "Mun": "PUERTO LÓPEZ"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50577,
+    "Mun": "PUERTO LLERAS"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50590,
+    "Mun": "PUERTO RICO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50606,
+    "Mun": "RESTREPO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50680,
+    "Mun": "SAN CARLOS DE GUAROA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50683,
+    "Mun": "SAN JUAN DE ARAMA"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50686,
+    "Mun": "SAN JUANITO"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50689,
+    "Mun": "SAN MARTÍN"
+  },
+  {
+    "codDept": 50,
+    "Dept": "Meta",
+    "codMun": 50711,
+    "Mun": "VISTAHERMOSA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52001,
+    "Mun": "PASTO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52019,
+    "Mun": "ALBÁN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52022,
+    "Mun": "ALDANA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52036,
+    "Mun": "ANCUYÁ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52051,
+    "Mun": "ARBOLEDA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52079,
+    "Mun": "BARBACOAS"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52083,
+    "Mun": "BELÉN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52110,
+    "Mun": "BUESACO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52203,
+    "Mun": "COLÓN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52207,
+    "Mun": "CONSACA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52210,
+    "Mun": "CONTADERO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52215,
+    "Mun": "CÓRDOBA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52224,
+    "Mun": "CUASPUD"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52227,
+    "Mun": "CUMBAL"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52233,
+    "Mun": "CUMBITARA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52240,
+    "Mun": "CHACHAGÜÍ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52250,
+    "Mun": "EL CHARCO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52254,
+    "Mun": "EL PEÑOL"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52256,
+    "Mun": "EL ROSARIO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52258,
+    "Mun": "EL TABLÓN DE GÓMEZ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52260,
+    "Mun": "EL TAMBO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52287,
+    "Mun": "FUNES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52317,
+    "Mun": "GUACHUCAL"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52320,
+    "Mun": "GUAITARILLA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52323,
+    "Mun": "GUALMATÁN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52352,
+    "Mun": "ILES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52354,
+    "Mun": "IMUÉS"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52356,
+    "Mun": "IPIALES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52378,
+    "Mun": "LA CRUZ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52381,
+    "Mun": "LA FLORIDA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52385,
+    "Mun": "LA LLANADA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52390,
+    "Mun": "LA TOLA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52399,
+    "Mun": "LA UNIÓN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52405,
+    "Mun": "LEIVA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52411,
+    "Mun": "LINARES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52418,
+    "Mun": "LOS ANDES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52427,
+    "Mun": "MAGÜI"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52435,
+    "Mun": "MALLAMA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52473,
+    "Mun": "MOSQUERA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52480,
+    "Mun": "NARIÑO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52490,
+    "Mun": "OLAYA HERRERA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52506,
+    "Mun": "OSPINA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52520,
+    "Mun": "FRANCISCO PIZARRO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52540,
+    "Mun": "POLICARPA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52560,
+    "Mun": "POTOSÍ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52565,
+    "Mun": "PROVIDENCIA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52573,
+    "Mun": "PUERRES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52585,
+    "Mun": "PUPIALES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52612,
+    "Mun": "RICAURTE"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52621,
+    "Mun": "ROBERTO PAYÁN"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52678,
+    "Mun": "SAMANIEGO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52683,
+    "Mun": "SANDONÁ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52685,
+    "Mun": "SAN BERNARDO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52687,
+    "Mun": "SAN LORENZO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52693,
+    "Mun": "SAN PABLO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52694,
+    "Mun": "SAN PEDRO DE CARTAGO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52696,
+    "Mun": "SANTA BÁRBARA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52699,
+    "Mun": "SANTACRUZ"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52720,
+    "Mun": "SAPUYES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52786,
+    "Mun": "TAMINANGO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52788,
+    "Mun": "TANGUA"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52835,
+    "Mun": "SAN ANDRES DE TUMACO"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52838,
+    "Mun": "TÚQUERRES"
+  },
+  {
+    "codDept": 52,
+    "Dept": "Nari¤o",
+    "codMun": 52885,
+    "Mun": "YACUANQUER"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54001,
+    "Mun": "CÚCUTA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54003,
+    "Mun": "ABREGO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54051,
+    "Mun": "ARBOLEDAS"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54099,
+    "Mun": "BOCHALEMA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54109,
+    "Mun": "BUCARASICA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54125,
+    "Mun": "CÁCOTA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54128,
+    "Mun": "CACHIRÁ"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54172,
+    "Mun": "CHINÁCOTA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54174,
+    "Mun": "CHITAGÁ"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54206,
+    "Mun": "CONVENCIÓN"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54223,
+    "Mun": "CUCUTILLA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54239,
+    "Mun": "DURANIA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54245,
+    "Mun": "EL CARMEN"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54250,
+    "Mun": "EL TARRA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54261,
+    "Mun": "EL ZULIA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54313,
+    "Mun": "GRAMALOTE"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54344,
+    "Mun": "HACARÍ"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54347,
+    "Mun": "HERRÁN"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54377,
+    "Mun": "LABATECA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54385,
+    "Mun": "LA ESPERANZA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54398,
+    "Mun": "LA PLAYA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54405,
+    "Mun": "LOS PATIOS"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54418,
+    "Mun": "LOURDES"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54480,
+    "Mun": "MUTISCUA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54498,
+    "Mun": "OCAÑA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54518,
+    "Mun": "PAMPLONA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54520,
+    "Mun": "PAMPLONITA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54553,
+    "Mun": "PUERTO SANTANDER"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54599,
+    "Mun": "RAGONVALIA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54660,
+    "Mun": "SALAZAR"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54670,
+    "Mun": "SAN CALIXTO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54673,
+    "Mun": "SAN CAYETANO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54680,
+    "Mun": "SANTIAGO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54720,
+    "Mun": "SARDINATA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54743,
+    "Mun": "SILOS"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54800,
+    "Mun": "TEORAMA"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54810,
+    "Mun": "TIBÚ"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54820,
+    "Mun": "TOLEDO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54871,
+    "Mun": "VILLA CARO"
+  },
+  {
+    "codDept": 54,
+    "Dept": "Norte de Santander",
+    "codMun": 54874,
+    "Mun": "VILLA DEL ROSARIO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86001,
+    "Mun": "MOCOA"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86219,
+    "Mun": "COLÓN"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86320,
+    "Mun": "ORITO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86568,
+    "Mun": "PUERTO ASÍS"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86569,
+    "Mun": "PUERTO CAICEDO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86571,
+    "Mun": "PUERTO GUZMÁN"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86573,
+    "Mun": "PUERTO LEGUÍZAMO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86749,
+    "Mun": "SIBUNDOY"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86755,
+    "Mun": "SAN FRANCISCO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86757,
+    "Mun": "SAN MIGUEL"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86760,
+    "Mun": "SANTIAGO"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86865,
+    "Mun": "VALLE DEL GUAMUEZ"
+  },
+  {
+    "codDept": 86,
+    "Dept": "Putumayo",
+    "codMun": 86885,
+    "Mun": "VILLAGARZÓN"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63001,
+    "Mun": "ARMENIA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63111,
+    "Mun": "BUENAVISTA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63130,
+    "Mun": "CALARCA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63190,
+    "Mun": "CIRCASIA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63212,
+    "Mun": "CÓRDOBA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63272,
+    "Mun": "FILANDIA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63302,
+    "Mun": "GÉNOVA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63401,
+    "Mun": "LA TEBAIDA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63470,
+    "Mun": "MONTENEGRO"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63548,
+    "Mun": "PIJAO"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63594,
+    "Mun": "QUIMBAYA"
+  },
+  {
+    "codDept": 63,
+    "Dept": "Quindio",
+    "codMun": 63690,
+    "Mun": "SALENTO"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66001,
+    "Mun": "PEREIRA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66045,
+    "Mun": "APÍA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66075,
+    "Mun": "BALBOA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66088,
+    "Mun": "BELÉN DE UMBRÍA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66170,
+    "Mun": "DOSQUEBRADAS"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66318,
+    "Mun": "GUÁTICA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66383,
+    "Mun": "LA CELIA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66400,
+    "Mun": "LA VIRGINIA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66440,
+    "Mun": "MARSELLA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66456,
+    "Mun": "MISTRATÓ"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66572,
+    "Mun": "PUEBLO RICO"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66594,
+    "Mun": "QUINCHÍA"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66682,
+    "Mun": "SANTA ROSA DE CABAL"
+  },
+  {
+    "codDept": 66,
+    "Dept": "Risaralda",
+    "codMun": 66687,
+    "Mun": "SANTUARIO"
+  },
+  {
+    "codDept": 88,
+    "Dept": "San Andres",
+    "codMun": 88001,
+    "Mun": "SAN ANDRÉS"
+  },
+  {
+    "codDept": 88,
+    "Dept": "San Andres",
+    "codMun": 88564,
+    "Mun": "PROVIDENCIA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68001,
+    "Mun": "BUCARAMANGA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68013,
+    "Mun": "AGUADA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68020,
+    "Mun": "ALBANIA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68051,
+    "Mun": "ARATOCA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68077,
+    "Mun": "BARBOSA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68079,
+    "Mun": "BARICHARA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68081,
+    "Mun": "BARRANCABERMEJA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68092,
+    "Mun": "BETULIA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68101,
+    "Mun": "BOLÍVAR"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68121,
+    "Mun": "CABRERA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68132,
+    "Mun": "CALIFORNIA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68147,
+    "Mun": "CAPITANEJO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68152,
+    "Mun": "CARCASÍ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68160,
+    "Mun": "CEPITÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68162,
+    "Mun": "CERRITO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68167,
+    "Mun": "CHARALÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68169,
+    "Mun": "CHARTA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68176,
+    "Mun": "CHIMA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68179,
+    "Mun": "CHIPATÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68190,
+    "Mun": "CIMITARRA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68207,
+    "Mun": "CONCEPCIÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68209,
+    "Mun": "CONFINES"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68211,
+    "Mun": "CONTRATACIÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68217,
+    "Mun": "COROMORO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68229,
+    "Mun": "CURITÍ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68235,
+    "Mun": "EL CARMEN DE CHUCURÍ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68245,
+    "Mun": "EL GUACAMAYO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68250,
+    "Mun": "EL PEÑÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68255,
+    "Mun": "EL PLAYÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68264,
+    "Mun": "ENCINO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68266,
+    "Mun": "ENCISO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68271,
+    "Mun": "FLORIÁN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68276,
+    "Mun": "FLORIDABLANCA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68296,
+    "Mun": "GALÁN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68298,
+    "Mun": "GAMBITA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68307,
+    "Mun": "GIRÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68318,
+    "Mun": "GUACA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68320,
+    "Mun": "GUADALUPE"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68322,
+    "Mun": "GUAPOTÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68324,
+    "Mun": "GUAVATÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68327,
+    "Mun": "GÜEPSA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68344,
+    "Mun": "HATO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68368,
+    "Mun": "JESÚS MARÍA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68370,
+    "Mun": "JORDÁN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68377,
+    "Mun": "LA BELLEZA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68385,
+    "Mun": "LANDÁZURI"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68397,
+    "Mun": "LA PAZ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68406,
+    "Mun": "LEBRIJA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68418,
+    "Mun": "LOS SANTOS"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68425,
+    "Mun": "MACARAVITA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68432,
+    "Mun": "MÁLAGA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68444,
+    "Mun": "MATANZA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68464,
+    "Mun": "MOGOTES"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68468,
+    "Mun": "MOLAGAVITA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68498,
+    "Mun": "OCAMONTE"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68500,
+    "Mun": "OIBA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68502,
+    "Mun": "ONZAGA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68522,
+    "Mun": "PALMAR"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68524,
+    "Mun": "PALMAS DEL SOCORRO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68533,
+    "Mun": "PÁRAMO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68547,
+    "Mun": "PIEDECUESTA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68549,
+    "Mun": "PINCHOTE"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68572,
+    "Mun": "PUENTE NACIONAL"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68573,
+    "Mun": "PUERTO PARRA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68575,
+    "Mun": "PUERTO WILCHES"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68615,
+    "Mun": "RIONEGRO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68655,
+    "Mun": "SABANA DE TORRES"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68669,
+    "Mun": "SAN ANDRÉS"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68673,
+    "Mun": "SAN BENITO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68679,
+    "Mun": "SAN GIL"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68682,
+    "Mun": "SAN JOAQUÍN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68684,
+    "Mun": "SAN JOSÉ DE MIRANDA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68686,
+    "Mun": "SAN MIGUEL"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68689,
+    "Mun": "SAN VICENTE DE CHUCURÍ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68705,
+    "Mun": "SANTA BÁRBARA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68720,
+    "Mun": "SANTA HELENA DEL OPÓN"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68745,
+    "Mun": "SIMACOTA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68755,
+    "Mun": "SOCORRO"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68770,
+    "Mun": "SUAITA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68773,
+    "Mun": "SUCRE"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68780,
+    "Mun": "SURATÁ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68820,
+    "Mun": "TONA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68855,
+    "Mun": "VALLE DE SAN JOSÉ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68861,
+    "Mun": "VÉLEZ"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68867,
+    "Mun": "VETAS"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68872,
+    "Mun": "VILLANUEVA"
+  },
+  {
+    "codDept": 68,
+    "Dept": "Santander",
+    "codMun": 68895,
+    "Mun": "ZAPATOCA"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70001,
+    "Mun": "SINCELEJO"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70110,
+    "Mun": "BUENAVISTA"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70124,
+    "Mun": "CAIMITO"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70204,
+    "Mun": "COLOSO"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70215,
+    "Mun": "COROZAL"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70221,
+    "Mun": "COVEÑAS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70230,
+    "Mun": "CHALÁN"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70233,
+    "Mun": "EL ROBLE"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70235,
+    "Mun": "GALERAS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70265,
+    "Mun": "GUARANDA"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70400,
+    "Mun": "LA UNIÓN"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70418,
+    "Mun": "LOS PALMITOS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70429,
+    "Mun": "MAJAGUAL"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70473,
+    "Mun": "MORROA"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70508,
+    "Mun": "OVEJAS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70523,
+    "Mun": "PALMITO"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70670,
+    "Mun": "SAMPUÉS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70678,
+    "Mun": "SAN BENITO ABAD"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70702,
+    "Mun": "SAN JUAN DE BETULIA"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70708,
+    "Mun": "SAN MARCOS"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70713,
+    "Mun": "SAN ONOFRE"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70717,
+    "Mun": "SAN PEDRO"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70742,
+    "Mun": "SAN LUIS DE SINCÉ"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70771,
+    "Mun": "SUCRE"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70820,
+    "Mun": "SANTIAGO DE TOLÚ"
+  },
+  {
+    "codDept": 70,
+    "Dept": "Sucre",
+    "codMun": 70823,
+    "Mun": "TOLÚ VIEJO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73001,
+    "Mun": "IBAGUÉ"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73024,
+    "Mun": "ALPUJARRA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73026,
+    "Mun": "ALVARADO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73030,
+    "Mun": "AMBALEMA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73043,
+    "Mun": "ANZOÁTEGUI"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73055,
+    "Mun": "ARMERO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73067,
+    "Mun": "ATACO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73124,
+    "Mun": "CAJAMARCA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73148,
+    "Mun": "CARMEN DE APICALÁ"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73152,
+    "Mun": "CASABIANCA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73168,
+    "Mun": "CHAPARRAL"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73200,
+    "Mun": "COELLO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73217,
+    "Mun": "COYAIMA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73226,
+    "Mun": "CUNDAY"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73236,
+    "Mun": "DOLORES"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73268,
+    "Mun": "ESPINAL"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73270,
+    "Mun": "FALAN"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73275,
+    "Mun": "FLANDES"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73283,
+    "Mun": "FRESNO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73319,
+    "Mun": "GUAMO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73347,
+    "Mun": "HERVEO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73349,
+    "Mun": "HONDA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73352,
+    "Mun": "ICONONZO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73408,
+    "Mun": "LÉRIDA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73411,
+    "Mun": "LÍBANO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73443,
+    "Mun": "SAN SEBASTIÁN DE MARIQUITA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73449,
+    "Mun": "MELGAR"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73461,
+    "Mun": "MURILLO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73483,
+    "Mun": "NATAGAIMA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73504,
+    "Mun": "ORTEGA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73520,
+    "Mun": "PALOCABILDO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73547,
+    "Mun": "PIEDRAS"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73555,
+    "Mun": "PLANADAS"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73563,
+    "Mun": "PRADO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73585,
+    "Mun": "PURIFICACIÓN"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73616,
+    "Mun": "RIOBLANCO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73622,
+    "Mun": "RONCESVALLES"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73624,
+    "Mun": "ROVIRA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73671,
+    "Mun": "SALDAÑA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73675,
+    "Mun": "SAN ANTONIO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73678,
+    "Mun": "SAN LUIS"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73686,
+    "Mun": "SANTA ISABEL"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73770,
+    "Mun": "SUÁREZ"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73854,
+    "Mun": "VALLE DE SAN JUAN"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73861,
+    "Mun": "VENADILLO"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73870,
+    "Mun": "VILLAHERMOSA"
+  },
+  {
+    "codDept": 73,
+    "Dept": "Tolima",
+    "codMun": 73873,
+    "Mun": "VILLARRICA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76001,
+    "Mun": "CALI"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76020,
+    "Mun": "ALCALÁ"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76036,
+    "Mun": "ANDALUCÍA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76041,
+    "Mun": "ANSERMANUEVO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76054,
+    "Mun": "ARGELIA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76100,
+    "Mun": "BOLÍVAR"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76109,
+    "Mun": "BUENAVENTURA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76111,
+    "Mun": "GUADALAJARA DE BUGA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76113,
+    "Mun": "BUGALAGRANDE"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76122,
+    "Mun": "CAICEDONIA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76126,
+    "Mun": "CALIMA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76130,
+    "Mun": "CANDELARIA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76147,
+    "Mun": "CARTAGO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76233,
+    "Mun": "DAGUA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76243,
+    "Mun": "EL ÁGUILA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76246,
+    "Mun": "EL CAIRO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76248,
+    "Mun": "EL CERRITO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76250,
+    "Mun": "EL DOVIO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76275,
+    "Mun": "FLORIDA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76306,
+    "Mun": "GINEBRA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76318,
+    "Mun": "GUACARÍ"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76364,
+    "Mun": "JAMUNDÍ"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76377,
+    "Mun": "LA CUMBRE"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76400,
+    "Mun": "LA UNIÓN"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76403,
+    "Mun": "LA VICTORIA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76497,
+    "Mun": "OBANDO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76520,
+    "Mun": "PALMIRA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76563,
+    "Mun": "PRADERA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76606,
+    "Mun": "RESTREPO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76616,
+    "Mun": "RIOFRÍO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76622,
+    "Mun": "ROLDANILLO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76670,
+    "Mun": "SAN PEDRO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76736,
+    "Mun": "SEVILLA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76823,
+    "Mun": "TORO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76828,
+    "Mun": "TRUJILLO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76834,
+    "Mun": "TULUÁ"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76845,
+    "Mun": "ULLOA"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76863,
+    "Mun": "VERSALLES"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76869,
+    "Mun": "VIJES"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76890,
+    "Mun": "YOTOCO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76892,
+    "Mun": "YUMBO"
+  },
+  {
+    "codDept": 76,
+    "Dept": "Valle",
+    "codMun": 76895,
+    "Mun": "ZARZAL"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97001,
+    "Mun": "MITÚ"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97161,
+    "Mun": "CARURU"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97511,
+    "Mun": "PACOA"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97666,
+    "Mun": "TARAIRA"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97777,
+    "Mun": "PAPUNAUA"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vaupes",
+    "codMun": 97889,
+    "Mun": "YAVARATÉ"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vichada",
+    "codMun": 99001,
+    "Mun": "PUERTO CARREÑO"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vichada",
+    "codMun": 99524,
+    "Mun": "LA PRIMAVERA"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vichada",
+    "codMun": 99624,
+    "Mun": "SANTA ROSALÍA"
+  },
+  {
+    "codDept": 97,
+    "Dept": "Vichada",
+    "codMun": 99773,
+    "Mun": "CUMARIBO"
+  }
+]
